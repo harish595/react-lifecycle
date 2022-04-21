@@ -1,0 +1,15 @@
+table{
+    width: 80%;
+}
+th{
+    background-color: yellow;
+}
+td{
+ background-color: antiquewhite;
+ text-align: center;
+}
+td img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
